@@ -1,0 +1,76 @@
+{
+	"common": {
+		"name": "sma-speedwire",
+		"version": "0.0.1",
+		"news": {
+			"0.0.1": {
+				"en": "initial release",
+				"de": "Erstveröffentlichung",
+				"ru": "Начальная версия",
+				"pt": "lançamento inicial",
+				"nl": "Eerste uitgave",
+				"fr": "Première version",
+				"it": "Versione iniziale",
+				"es": "Versión inicial",
+				"pl": "Pierwsze wydanie",
+				"zh-cn": "首次出版"
+			}
+		},
+		"title": "SMA Speedwire",
+		"titleLang": {
+			"en": "SMA Speedwire",
+			"de": "SMA-Speedwire",
+			"ru": "SMA Speedwire",
+			"pt": "SMA Speedwire",
+			"nl": "SMA Speedwire",
+			"fr": "SMA Speedwire",
+			"it": "SMA Speedwire",
+			"es": "Cable de velocidad SMA",
+			"pl": "SMA Speedwire",
+			"zh-cn": "SMA Speedwire"
+		},
+		"desc": {
+			"en": "sma-speedwire",
+			"de": "sma-speedwire",
+			"ru": "sma-speedwire",
+			"pt": "sma-speedwire",
+			"nl": "sma-speedwire",
+			"fr": "sma-speedwire",
+			"it": "sma-speedwire",
+			"es": "cable de velocidad sma",
+			"pl": "sma-speedwire",
+			"zh-cn": "高速线"
+		},
+		"authors": [
+			"derAlff <deralff@gmail.com>"
+		],
+		"keywords": [
+			"sma speedwire webconnect sunnyportal"
+		],
+		"license": "GPL-3.0",
+		"platform": "Javascript/Node.js",
+		"main": "main.js",
+		"icon": "sma-speedwire.png",
+		"enabled": true,
+		"extIcon": "https://raw.githubusercontent.com/necotec/ioBroker.sma-speedwire/main/admin/sma-speedwire.png",
+		"readme": "https://github.com/necotec/ioBroker.sma-speedwire/blob/main/README.md",
+		"loglevel": "info",
+		"mode": "daemon",
+		"type": "energy",
+		"compact": true,
+		"connectionType": "local",
+		"dataSource": "poll",
+		"materialize": true,
+		"dependencies": [
+			{
+				"js-controller": ">=2.0.0"
+			}
+		]
+	},
+	"native": {
+		"option1": true,
+		"option2": "42"
+	},
+	"objects": [],
+	"instanceObjects": []
+}
