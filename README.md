@@ -30,9 +30,9 @@ This adapter reads data of SMA inverters.
 * (derAlff) initial release
 
 ### Credits
-Inspierated from <b>AttackStrawbery</b>
-Original adapter <b>https://github.com/AttackStrawbery/ioBroker.sma-speedwire</b>
-Used some functions and methods from AttackStraberry's sourcecode. Thanks to him/her at this place.
+Inspierated from <b>AttackStrawbery</b><br>
+Original adapter <b>https://github.com/AttackStrawbery/ioBroker.sma-speedwire</b><br>
+Used some functions and methods from AttackStraberry's sourcecode. Thanks to him/her at this place
 
 ## License
 					GNU GENERAL PUBLIC LICENSE
